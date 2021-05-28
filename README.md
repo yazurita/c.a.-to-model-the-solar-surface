@@ -14,7 +14,7 @@ Voilà! An artificial sun.
   <img src="https://user-images.githubusercontent.com/72736453/119829065-c0be6b80-bef2-11eb-9749-208d4f222bb0.gif" width=30% height=30% />
 </p>
 
-For the sake of comparison, here we have our simulation (left) and a real timelapse (right):
+For the sake of comparison, here we have our simulation (left) and a timelapse created using a conventional model (right):
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72736453/119829429-227ed580-bef3-11eb-83c2-0b03238e6dd1.gif" width=25% height=25% />
   <img src="https://user-images.githubusercontent.com/72736453/119829435-24489900-bef3-11eb-80d6-d89356052247.gif" width=25% height=25% />
